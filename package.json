@@ -36,7 +36,7 @@
   "devDependencies": {
     "grunt-contrib-jshint": "~0.8.0",
     "chai": "*",
-    "mocha": "*",
+    "mocha": "2.5.3",
     "grunt-contrib-connect": "~0.7.1"
   },
   "peerDependencies": {
